@@ -55,6 +55,8 @@ Check out our FAQ for more information.
   - [**December 27 - Mission to Earth: Re-Calibrated**](#december-27---mission-to-earth-re-calibrated)
   - [**December 28 - The Journey to the Eternal Engine**](#december-28---the-journey-to-the-eternal-engine)
   - [**December 29 - Candies**](#december-29---candies)
+  - [**December 30 - Precise Portion**](#december-30---precise-portion)
+  - [**December 31 - The Quad of Queens**](#december-31---the-quad-of-queens)
   - [**FAQ**](#faq)
   
   
@@ -98,7 +100,9 @@ Check out our FAQ for more information.
    #### Explanation
    ```
      
-        The first line of input will specify the number of words (n). The subsequent 'n' lines will specify the word to be translated.
+        The first line of input will specify the number of words (n). 
+        
+        The subsequent 'n' lines will specify the word to be translated, where each letter is separated by a comma.
         
    ```
     
@@ -335,7 +339,7 @@ Expenditure=6050
  #### Explanation
  ```
  
-         The input is the rate of the fuel in the beginning of the month.
+        The input is the rate of the fuel in the beginning of the month.
         The output is the amount he must spend on fueling his bike. 
         If the expenditure exceeds 10% of the income (i.e greater than 5000), then an alert message must be displayed.
         
@@ -470,6 +474,8 @@ Output:
     - [Strings in C++](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
     - [Strings in Java](https://www.tutorialspoint.com/java/java_strings.htm)
     - [String in Python](https://www.tutorialspoint.com/python/python_strings.htm)
+    - [2D Arrays](https://www.simplilearn.com/tutorials/data-structure-tutorial/two-dimensional-arrays#:~:text=ExpertView%20Course-,What%20Are%20Two%2DDimensional%20Arrays%3F,similar%20to%20the%20data%20structure.)
+    - [Pattern Searching in Strings](https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/)
     
 ----
     
@@ -503,6 +509,7 @@ Help Arshith develop a way to translate any given word to that particular langua
     - [Strings in C++](https://www.geeksforgeeks.org/stdstring-class-in-c/)
     - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
     - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
+    - [Pattern Searching in Strings](https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/)
 
 ----
 
@@ -560,6 +567,7 @@ Better luck next time
     - [Strings in C++](https://www.geeksforgeeks.org/stdstring-class-in-c/)
     - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
     - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
+    - [Pattern Searching in Strings](https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/)
 
 ----
 
@@ -639,6 +647,8 @@ S contains only lowercase Latin characters, i.e, the characters {a,b,c…….z}
     - [Strings in C++](https://www.geeksforgeeks.org/stdstring-class-in-c/)
     - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
     - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
+    - [Pattern Searching in Strings](https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/)
+
 
 ----
 
@@ -689,13 +699,13 @@ Since in the 8th jump the monkey touches water, the total jump count before he t
 ```
 
 - **References**
-- [Looping in C](https://www.tutorialspoint.com/cprogramming/c_loops.htm)
-- [Looping in C++](https://www.programiz.com/cpp-programming/for-loop)
-- [Looping in Java](https://www.geeksforgeeks.org/loops-in-java/)
-- [Looping in Python](https://www.w3schools.com/python/python_for_loops.asp)
-- [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
-- [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-- [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Looping in C](https://www.tutorialspoint.com/cprogramming/c_loops.htm)
+    - [Looping in C++](https://www.programiz.com/cpp-programming/for-loop)
+    - [Looping in Java](https://www.geeksforgeeks.org/loops-in-java/)
+    - [Looping in Python](https://www.w3schools.com/python/python_for_loops.asp)
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
 
 
 ----
@@ -758,6 +768,14 @@ From 7 she has 4 options; paths of costs 6,6,3,4 (Taking path 4 is not advisable
 
 ```
 
+- **References**
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [Shortest Path Algorithms](https://brilliant.org/wiki/shortest-path-algorithms/#:~:text=There%20are%20two%20main%20types,because%20of%20the%20added%20complexity.)
+
+
 ----
 ### December 13 - The Labyrinth
 #### Problem Statement
@@ -817,6 +835,12 @@ In the given samples, the input matrix specifies the structure of the maze in wh
 After computing a path to the destination, the output matrix represents the path to the destination block using 1’s.
 
 ```
+- **References**
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [Backtracking Algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
 
 ----
 ### December 14 - Math Mystery 
@@ -877,11 +901,12 @@ You are required to divide the given vertices into two sets such that:
 
 ```
 - **References**
-- [Bipartite graphs](https://www.tutorialspoint.com/bipartite-graphs)
-- [Adjacency matrices](https://www.javatpoint.com/what-is-an-adjacency-matrix)
-- [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
-- [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-- [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Bipartite graphs](https://www.geeksforgeeks.org/bipartite-graph/)
+    - [Adjacency matrices](https://www.javatpoint.com/what-is-an-adjacency-matrix)
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 ----
 
@@ -923,9 +948,9 @@ They will now be organized into a queue based on when they pressed the microphon
 
 ```
 - **References**
-- [Queue data structure](https://www.javatpoint.com/data-structure-queue)
-- [Queue in Java](https://www.geeksforgeeks.org/queue-interface-java/)
-- [Queue in Python](https://www.geeksforgeeks.org/queue-interface-java/)
+    - [Queue data structure](https://www.javatpoint.com/data-structure-queue)
+    - [Queue in Java](https://www.geeksforgeeks.org/queue-interface-java/)
+    - [Queue in Python](https://www.geeksforgeeks.org/queue-interface-java/)
 
 ----
 
@@ -966,11 +991,17 @@ In this case,the area between lines 7 and 8 will be maximum.
 
 Height of the container is min(7,8)= 7. So the max area of water (blue section) the container can contain is 49.
 
+The selected two heights need not necessarily be maximum but including the max distance between them at the same time.
+Considering both the length and breadth to be maximum the area is found. So it is a combination of height and distance between the two heights.
+So that the resultant area will be the maximum amount of water in the the given container.
+
 ```
 - **References**
-- [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
-- [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-- [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
+    - [Two Pointer Approach](https://www.geeksforgeeks.org/two-pointers-technique//)
 
 ----
 
@@ -1025,9 +1056,9 @@ Output for each test case should be printed in a separate line.
 
 ```
 - **References**
-- [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
-- [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-- [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Strings in C++](https://www.geeksforgeeks.org/stdstring-class-in-c/)
+    - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
+    - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
 
 ----
 
@@ -1072,11 +1103,11 @@ Time complexity is 0(V^2)
 
 ```
 - **References**
-- [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
-- [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
-- [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-- [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
-- [Adjacency matrices](https://www.javatpoint.com/what-is-an-adjacency-matrix)
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [Shortest Path Algorithms](https://brilliant.org/wiki/shortest-path-algorithms/#:~:text=There%20are%20two%20main%20types,because%20of%20the%20added%20complexity.)
 
 ----
 
@@ -1248,6 +1279,7 @@ Please note that this is not the maximum weight generated from picking the highe
     - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
     - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
     - [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+    - [Subsequences in Arrays and Strings](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
 
 
 ----
@@ -1424,6 +1456,7 @@ The message as well as the codeword do not have any spaces between the words.
     - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
     - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
     - [Caesar Cipher](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
+    - [Caesar Cipher Techniques](https://www.javatpoint.com/caesar-cipher-technique)
 
 
 ----
@@ -1510,6 +1543,8 @@ For the first sample input the first line is the number of rooms and the second 
     - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
     - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
     - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Sorting](https://www.geeksforgeeks.org/sorting-algorithms/)
+    - [Heap (Priority Queue)](https://www.geeksforgeeks.org/priority-queue-using-binary-heap/)
 
 
 ----
@@ -1601,9 +1636,10 @@ Thus "01100" will unlock the safe. "01100", "10011", and "11001" would also unlo
     - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
     - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
     - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
-    - [Strings in C++](https://www.geeksforgeeks.org/stdstring-class-in-c/)
-    - [Strings in Python](https://www.geeksforgeeks.org/python-string/)
-    - [String in Java](https://www.geeksforgeeks.org/strings-in-java/)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [Hierholzer’s Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
+    - [Eulerian Path and Circuit](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
+    - [Depth First Search](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 
 
 ----
@@ -1625,6 +1661,26 @@ Please help him!
 If at any given time two motorcyclists are in same position, the motorcyclist with the smaller index will be placed before the one with the larger index.
 
 To make the problem simple,  he  assumes that each motorcyclist is moving at a constant velocity.
+
+Input Format:
+
+    The first line contains a number t (about 10) which is the number of test cases. 
+
+    Then t test cases follow. Each test case has the following form.
+
+    The first line of the test case contains a number N (1 <= N <= 2000), the number of motorcyclists.
+
+    The i-th line in the next N lines contains two numbers, v and x, which are the velocity and the current position of the i-th motorcyclist (1 <= v, x <= 100,000).
+
+    The next line contains a number Q (1 <= Q <= 2000), the number of time queries.
+
+    Each line in the next Q lines contains two numbers, t (1 <= t <= 1,000,000,000) and k (1 <= k <= n), representing the query: "at time t, which motorcyclist is  positioned k-th in the rank list?"
+
+Output Format:
+
+    For each test case, print Q lines, with each line containing the index of the motorcyclist for the corresponding query.
+
+    Remember to print a new line after each test case.
 
 
 
@@ -1660,36 +1716,13 @@ Output:
 
 ```
 
-
-#### Explanation:
-
-```
-Input
-
-The first line contains a number t (about 10) which is the number of test cases. 
-
-Then t test cases follow. Each test case has the following form.
-
-The first line of the test case contains a number N (1 <= N <= 2000), the number of motorcyclists.
-
-The i-th line in the next N lines contains two numbers, v and x, which are the velocity and the current position of the i-th motorcyclist (1 <= v, x <= 100,000).
-
-The next line contains a number Q (1 <= Q <= 2000), the number of time queries.
-
-Each line in the next Q lines contains two numbers, t (1 <= t <= 1,000,000,000) and k (1 <= k <= n), representing the query: "at time t, which motorcyclist is positioned k-th in the rank list?"
-
-Output:
-
-For each test case, print Q lines, with each line containing the index of the motorcyclist for the corresponding query.
-
-Remember to print a new line after each test case.
-
-```
 - **References**
     - [Looping in C](https://www.tutorialspoint.com/cprogramming/c_loops.htm)
     - [Looping in C++](https://www.programiz.com/cpp-programming/for-loop)
     - [Looping in Java](https://www.geeksforgeeks.org/loops-in-java/)
     - [Looping in Python](https://www.w3schools.com/python/python_for_loops.asp)
+    - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
+    - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
 
 ----
 
@@ -1760,6 +1793,11 @@ The list has four persons and everyone knows what the word is so the output is �
 
 <p align="center"><img src="https://user-images.githubusercontent.com/105559815/209476058-e08a4bc6-9a28-4846-99c0-e47333015739.png" width="400"></p>
 
+- **References**
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+
 ----
 
 ### December 27 - Mission to Earth: Re-Calibrated
@@ -1820,7 +1858,7 @@ The tank is FULL!
 
 Input: 
 Enter the Hydrogen fuel fraction:
-25/156
+25/15600
 
 Output:
 
@@ -1828,6 +1866,18 @@ Fuel calibration: 0.160%
 Amount of fuel in tank: 48 L out of 30,000 L
 The tank is EMPTY!!!
 Refill tank.
+
+```
+
+``` 
+Input: 
+
+Enter the Hydrogen fuel fraction:
+583/0
+
+Output:
+
+Error!
 
 ```
 
@@ -1854,7 +1904,7 @@ Conditions:
 
     There needs to be at least 3 Tailies (including Layton) to even attempt to take over the engine.
 
-    One Tailie must move back and forth along the same path in order to bring back a breach suit for the remaining Tailies left to make it to the third class compartment. It is not necessary that the same Tailie moves back and forth the whole time. 
+   In order to bring back the breach suit for the other Tailies, one of the Tailies already in the compartment must come back. It is not necessary that the same Tailie comes back everytime.
 
     While moving along the path, both the Tailies must walk at the slower person’s pace.
 
@@ -1881,6 +1931,19 @@ Output:
 ```
 Input: 
 
+n=4
+ 
+Walking time: { 1, 4, 7, 8, 3, 2 }
+
+Output:
+
+0.4
+
+``` 
+
+```
+Input: 
+
 n=9
  
 Walking time: { 3, 10, 12, 13, 15, 17, 21, 35, 23 }
@@ -1890,6 +1953,7 @@ Output:
 2.683
 
 ``` 
+
 
 #### Explanation
 
@@ -1909,6 +1973,25 @@ With the last Tailie he walks to the third class compartment and this takes 60 s
 
 Adding all this we get, 40+15+60= 115 seconds which is 1.916 minutes.  
 
+Sample -2
+
+{ 1, 4, 7, 8, 3, 2 }
+
+The tailes are identified using indices 1 to 6. The Tail is T and the third class compartment is C:
+
+1. 1 and 6 move to C = 2s
+2. 1 moves to T = 1
+3. 3 and 4 move to C= 8
+4. 6 moves to T = 2
+5. 1 and 2 move to C= 4
+6. 1 moves to T= 1
+7. 1 and 5 move to C= 3
+8. 1 moves to T = 1
+9. 1 and 6 move to C= 2
+
+Adding the time:
+2+1+8+2+4+1+3+1+2=24 seconds = 0.4 minutes
+
 ```
 
 - **References**
@@ -1916,6 +1999,7 @@ Adding all this we get, 40+15+60= 115 seconds which is 1.916 minutes.
     - [Looping in C++](https://www.programiz.com/cpp-programming/for-loop)
     - [Looping in Java](https://www.geeksforgeeks.org/loops-in-java/)
     - [Looping in Python](https://www.w3schools.com/python/python_for_loops.asp)
+    - [Dynamic Programming](https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/)
 
 ----
 
@@ -1958,7 +2042,7 @@ ratings = {1, 4, 3, 6, 2, 1, 8, 1, 3, 7, 7}
 
 Output:
 
-73
+19
 
 ``` 
 
@@ -1983,9 +2067,362 @@ The third child gets 1 candy because it satisfies the above two conditions.
     - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
     - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
     - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [Dynamic Programming](https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/)
+    - [Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/)
 
 ----
 
+### December 30 - Precise Portion
+
+#### Problem Statement
+
+The Elite students society in Nevermore changed their riddle in order to not allow non- members of the society to enter their library.
+
+The puzzle is currently with 2 jugs, with different volumes and a fountain instead of the statue.
+And a riddle engraved on a plate with the target volume of water made from the two jugs.
+
+                                         “Wednesday’s child is full of woe,
+                    
+                                                   Amount of wisdom,
+                            
+                                                   And amount of foe.
+                           
+                                            The wisdom of Wednesday I seek,
+                    
+                                Is her position from the first workday of the week.”
+
+
+Being in the shoes of Wednesday Addams, in order to enter the library , formulate a code  to fill a particular jug with the amount of water specified in the riddle with only the two jugs given.
+
+Note:
+
+    1. You can fill the jugs from the fountain
+    2.Transfer water from one jug to another
+    3.Empty the water from the jug into the fountain
+    4.None of the jugs have markings on them, nor do you have any additional measuring device.
+
+Note: The examples given for the input and output format must NOT be used as sample input and must only be used to understand the FORMAT of the input.
+
+Input format:
+
+    The first line of input is a 1 Dimensional array with 2 elements representing the 2 jugs with their respective volumes in ounces.
+
+        eg. (8,1)
+
+        Jug 1 has volume = 8 ounces
+
+        Jug 2 has volume = 1 ounces
+
+    The second line of input is a 1 Dimensional array with 2 elements representing the 2 jugs.
+
+        eg. (5, 0)
+
+        The target we must reach is : Jug 1 is filled with 5 ounces of water and Jug 2 is empty.
+        
+
+Output format:
+
+    The output must contain the sequence of steps, where each line is a different step. 
+    
+    Every line of the output is a 1 dimensional array with 2 elements representing the current volume of water in each jug at the end of that step.
+
+    You must start with both jugs being empty, that is, (0,0)
+
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/105559815/209995446-3803be14-df2c-4224-8f73-4b511f80dfef.gif" width="400"></p>
+
+
+
+#### Sample Input/Output
+``` 
+Input: 
+
+(4, 9)
+(3, 0)
+
+Output:
+
+(0, 0)
+(4, 0)
+(0, 4)
+(4, 4)
+(0, 8)
+(4, 8)
+(3, 9)
+(3, 0)
+
+
+```
+
+```
+Input: 
+
+ ( 5, 4)
+ ( 3, 0)
+
+Output:
+
+ (0, 0)
+ (5, 0)
+ (1, 4)
+ (1, 0)
+ (0, 1)
+ (5, 1)
+ (2, 4)
+ (2, 0)
+ (0, 2)
+ (5, 2)
+ (3, 4)
+ (3, 0)
+
+``` 
+
+```
+Input:
+
+(11,9)
+(0,3)
+
+Output:
+(0, 0)
+(11, 0)
+(2, 9)
+(0, 9)
+(9, 0)
+(9, 9)
+(11, 7)
+(0, 7)
+(7, 0)
+(7, 9)
+(11, 5)
+(0, 5)
+(5, 0)
+(5, 9)
+(11, 3)
+(0, 3)
+
+``` 
+
+#### Explanation
+
+``` 
+Sample 1: 
+(4,9) Jug 1 is the 4 ounce jug and Jug 2 is the 9 ounce jug.
+We have to get (3,0)
+
+1. We first start with both the jugs being empty
+2. We fill the 4 ounce jug to the brim from the fountain.
+3. Then we transfer the water from the 4 ounce jug to the 9 ounce jug. The 4 ounce jug is now empty and the 9 ounce jug      has 4 ounces of water.
+4. Fill the 4 ounce jug from the fountain.
+5. Transfer the water in the 4 ounce jug to the 9 ounce jug. The 4 ounce jug is empty and the 9 ounce jug has 8 ounces of    water.
+6. Fill the 4 ounce jug to the brim.
+7. Fill the 9 ounce jug to the brim by transferring water from the 4 ounce jug to the 9 ounce jug. The 4 ounce jug has 3      ounces of water and the 9 ounce jug is filled completely.
+8. Empty the contents of the 9 ounce jug into the fountain. 
+
+ We now have the target which is (3,0) that is, jug 1 is filled with 3 ounces of water and jug 2 is empty.
+
+Note: There maybe more than one solution for the given input
+If you do get another solution, you can still submit it. 
+
+```
+
+- **References**
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+    - [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+    - [BFS](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+
+----
+
+### December 31 - The Quad of Queens
+
+#### Problem Statement
+
+The queens of the Hogwarts realm were invited to a chess themed royal ball held at the kingdom’s capital city.
+
+The chess themed royal ball assigned each “square” of the chessboard themed floor for each royalty, with Kings, Queens and Bishops having similar stride as that of chess to keep it fun.
+
+But here’s the catch. The Queens hate each other.
+
+Now, being the prime minister of this realm, how many distinct ways would you assign seats to the Queens without them being able to attack each other, and make this more generalised for ‘N’ number of such Queens.
+
+Assume the floor to be an N x N grid , with N being the number of queens.
+
+The Queens must be placed on the grid, such that they are unable to attack another Queen, or be attacked by another Queen.  
+
+The input must have:
+
+    A single line input with the number of Queens. This will be the N value mentioned above.
+    
+Each solution must contain : 
+
+    1. The number of distinct solutions in the first line
+    2. All the distinct board configurations of the N-queens' placement, where 'Q' and '.' , indicate a Queen and an empty space, respectively. 
+    They must be printed one after the other. 
+    They can be printed in any order.
+    
+Note:  all the Queens must be represented only as 'Q' and the empty spaces, only as '.'.
+
+CONSTRAINT: 1 <= N <= 9
+
+
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/105559815/210098027-2f2ce89b-cac7-4c02-8e5e-98944c790458.jpg" height="300"></p>
+
+
+
+#### Sample Input/Output
+``` 
+Input: 
+
+4
+
+Output:
+
+2
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+
+```
+
+```
+Input: 
+
+1
+
+Output:
+
+1
+Q
+
+``` 
+
+```
+Input:
+
+5
+
+Output:
+
+10
+
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . .
+
+``` 
+
+#### Explanation
+
+``` 
+For N=4 
+There are 4 queens: Q1, Q2, Q3, Q4
+Let’s suppose we’re putting our first queen Q1 at position (1, 1) now for  Q2 we can’t put it in  row 1( because they will conflict ). 
+ Q   .   .   . 
+ .   .   .   .
+ .   .   .   .  
+ .   .   .   . 
+
+So for Q2 we will have to consider row 2. In row 2 we can place it in column 3 I.e at (2, 3) but then there will be no option for placing Q3 in row 3. 
+ Q   .   .   . 
+ .   .   Q   .
+ .   .   .   .  
+ .   .   .   . 
+
+So we backtrack one step and place Q2 at (2, 4) then we find the position for placing  Q3 is (3, 2) but by this, no option will be left for placing Q4.
+
+
+ Q   .   .   . 
+ .   .   .   Q
+ .   Q   .   .  
+ .   .   .   . 
+
+Then we have to backtrack till ‘Q1’ and put it at (1, 2) instead of (1, 1) and then all other queens can be placed safely by moving Q2 to the position (2, 4), Q3  to (3, 1), and Q4 to (4, 3).
+ .   Q   .   . 
+ .   .   .   Q
+ Q   .   .   .  
+ .   .   Q   . 
+
+Similarly the other output for N=4 is also evaluated. 
+Proceed using this example as reference to evaluate the other inputs.
+
+
+```
+
+- **References**
+    - [Arrays in C++](http://www.cplusplus.com/doc/tutorial/arrays/)
+    - [Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+    - [Arrays in Python](https://www.w3schools.com/python/python_lists.asp)
+
+----
 
 FAQ
 ======
